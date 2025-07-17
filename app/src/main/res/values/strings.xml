@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pHCameraApp</string>
+    <string name="camera_target_description">custom camera target overlay</string>
+</resources>

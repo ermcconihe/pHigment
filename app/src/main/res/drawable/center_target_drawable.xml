@@ -1,0 +1,38 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Horizontal Red Line (spans the width of the ImageView) -->
+    <item android:gravity="center_vertical"> <!-- Keeps it vertically centered -->
+        <shape android:shape="line">
+            <stroke android:width="4dp" android:color="#FF0000" /> <!-- Red -->
+        </shape>
+    </item>
+
+    <!-- Vertical Red Line (spans the height of the ImageView) -->
+    <item android:gravity="center_horizontal"> <!-- Keeps it horizontally centered -->
+        <rotate
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fromDegrees="90"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="90">
+            <shape android:shape="line">
+                <stroke
+                    android:width="4dp"
+                    android:color="#FF0000" /> <!-- Red -->
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Red Circle in the Middle -->
+    <!-- Inset it so it's not edge-to-edge, making it look like a target circle -->
+    <item
+        android:left="8dp"  android:right="8dp"
+        android:top="8dp"   android:bottom="8dp">
+        <shape android:shape="oval">
+            <stroke android:width="4dp" android:color="#FF0000"/> <!-- Red -->
+            <!-- <solid android:color="#00FFFFFF"/> If you want a transparent fill -->
+        </shape>
+    </item>
+
+</layer-list>
