@@ -82,7 +82,7 @@ Calcium Chloride Solution Ingredients:
 
 **Ingredients: (Measure in Mixing Order)**
 - 100 g Water 
-- 0.5 g Red Cabbage Powder 
+- 0.25 g Red Cabbage Powder 
 - 0.1 g Titanium Dioxide 
 - 5 g Glycerine 
 - 2.5 g Sunflower Oil 
@@ -98,8 +98,8 @@ Calcium Chloride Solution Ingredients:
 1. Put the glass jar on the scale and hit the zero (tare) button to set the scale to zero
 2. Measure out 100g of water into the jar
 3. Measure out the rest of the ingredients as follows, mixing with the spoon inbetween (make sure the spoon is clean each time):
-   -  0.25 grams red cabbage powder onto tracing paper, and pour it into the jar
-   -  0.1 grams titanium dioxide onto tracing paper, and pour it into the jar
+   -  0.25 grams of red cabbage powder onto tracing paper, and pour it into the jar
+   -  0.1 grams of titanium dioxide onto tracing paper, and pour it into the jar
    -  2.5 grams of sunflower oil into a boat, and pour it into the jar
    -  5 grams of glycerine into a boat, and pour it straight into jar
 4. The 3 grams of sodium alginate should be measured into a boat and then added slowly to the jar while mixing with the immersion blender
@@ -129,7 +129,7 @@ Calcium Chloride Solution Ingredients:
 7. Respray again from 1 foot, focusing on the edges of the biomaterial
 8. Dry the biomaterial with your chosen method, no part of it should feel wet when done
 9. Final product should be face mask consistency, paper-like and smooth
-10. Peel the biomaterial carfully off of your surface
+10. Peel the biomaterial carefully off of your surface
 
 **Cutting the Biomaterial**
 1. Gather a sheet of the double-sided sticky paper
@@ -141,7 +141,7 @@ Calcium Chloride Solution Ingredients:
 6. Turn on the machine
 7. Connect your computer through bluetooth or a cable connection
 8. Open up Silhoutte Studio
-9. 
+9. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio
 
   
 **Instructions:**
