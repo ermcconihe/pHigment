@@ -102,6 +102,7 @@ Calcium Chloride Solution Ingredients:
    -  0.1 grams of titanium dioxide onto tracing paper, and pour it into the jar
    -  2.5 grams of sunflower oil into a boat, and pour it into the jar
    -  5 grams of glycerine into a boat, and pour it straight into jar
+![amount of red cabbage powder](/photos/cabbage powder amount.jpeg) 
 4. The 3 grams of sodium alginate should be measured into a boat and then added slowly to the jar while mixing with the immersion blender
    - add very small spoonfulls of the alginate at a time to prevent clumping
    - can split the amount into thirds but it is better to add in much smaller portions, such as 10ths, which will create a smoother mixture
