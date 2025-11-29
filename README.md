@@ -59,7 +59,7 @@ components of a circular materials strategy.
 
 ## Fabrication
 
-Required Materials:
+**Required Materials:**
 - Immersion Blender
 - Scale
 - Glass Jar - that will fit in the vacuum chamber
@@ -76,11 +76,11 @@ Required Materials:
 - Plastic spreader or any straight and flat object to be used as such
 - Acyrlic Sheet or Metal Oven-safe tray
 
-Calcium Chloride Solution Ingredients:
+**Calcium Chloride Solution Ingredients:**
 - 10g calcium chloride
 - 100g water
 
-**Ingredients: (Measure in Mixing Order)**
+**Biomaterial Ingredients: (Measure in Mixing Order)**
 - 100 g Water 
 - 0.25 g Red Cabbage Powder 
 - 0.1 g Titanium Dioxide 
