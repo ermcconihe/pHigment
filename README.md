@@ -61,6 +61,8 @@ components of a circular materials strategy.
 
 Required Materials:
 - Immersion Blender
+- Scale
+- Glass Jar - that will fit in the vacuum chamber
 - Cameo
 - Vacuum Chamber
 - Double-sided Sticky Paper
@@ -72,6 +74,7 @@ Required Materials:
 - Biomaterial
 - Spray Bottle
 - Plastic spreader or any straight and flat object to be used as such
+- Acyrlic Sheet or Metal Oven-safe tray
 
 Calcium Chloride Solution Ingredients:
 - 10g calcium chloride
@@ -82,22 +85,64 @@ Calcium Chloride Solution Ingredients:
 - 0.5 g Red Cabbage Powder 
 - 0.1 g Titanium Dioxide 
 - 5 g Glycerine 
-- 2.5 gSunflower Oil 
+- 2.5 g Sunflower Oil 
 - 3 g Sodium Alginate
 
 **To Make the Calcium Chloride Solution**
 1. Heat 100g of water until hot, either on the stove or in a kettle
-2. stir in 10f of calcium chloride until dissovled
-3. pour in a spray bottle and let cool completely
+2. Stir in 10f of calcium chloride until dissovled
+3. Pour in a spray bottle and let cool completely
+4. This solution will be good for a long period of time and does not have to be remade for every batch of biomaterial
 
 **To Make the Biomaterial**
+1. Put the glass jar on the scale and hit the zero (tare) button to set the scale to zero
+2. Measure out 100g of water into the jar
+3. Measure out the rest of the ingredients as follows, mixing with the spoon inbetween (make sure the spoon is clean each time):
+   -  0.25 grams red cabbage powder onto tracing paper, and pour it into the jar
+   -  0.1 grams titanium dioxide onto tracing paper, and pour it into the jar
+   -  2.5 grams of sunflower oil into a boat, and pour it into the jar
+   -  5 grams of glycerine into a boat, and pour it straight into jar
+4. The 3 grams of sodium alginate should be measured into a boat and then added slowly to the jar while mixing with the immersion blender
+   - add very small spoonfulls of the alginate at a time to prevent clumping
+   - can split the amount into thirds but it is better to add in much smaller portions, such as 10ths, which will create a smoother mixture
+   - add all the sodium alginate and mix with the immersion blender until fully combined and smooth - use the higher setting as it gets thicker
 
-
+**Using the Vacuum Chamber**
+1. Place the jar (without a lid) in the center of the chamber - try taping it down as it will want to move
+2. Place the lid of the chamber on and make sure the plug is tight in the back, otherwise it will not pressurize
+3. Press the "on" button and hit the AI button (on the left of the lid) to change the time unitl it says 15 minutes
+4. Make sure to watch the solution during this time to ensure that it doesn't bubble over
+   - if it looks like it will, you can pause the machine with the go/pause symbols
+5. When complete, depressurize the chamber by releasing the plug very slowly
+6. Scoop out any remaining clumps and gently stir the solution with the spoon
 
 **Pouring and Drying the Biomaterial**
-
+1. Depending on how you plan to dry the biomaterial gather a flat surface:
+   - an acyrlic sheet or another smooth non-stick surface if drying in the open air - will take 7 days or 3 warm days in the sun
+   - a metal tray if drying in the oven/convection oven with a dehydrator setting - will take around 2 hours on a low setting of 120-140 degrees F
+2. Pour out the entire biomaterial solution onto your desired surface
+3. Spread out thin with a smoothing tool, not too thin that you can see the surface through the solution
+   - the biomaterial is self-leveling so some low spots should even out if it is left to sit for a bit, but further spreading may be needed
+4. Shake or swirl the Calcium Chloride solution to ensure it is fully combined
+5. From a foot away, douse the biomaterial thoroughly with a fine mist of the Calcium Chloride solution
+6. Let sit for 5-10 minutes as the material with shrink, exposing the edges which are a lighter and wetter color
+7. Respray again from 1 foot, focusing on the edges of the biomaterial
+8. Dry the biomaterial with your chosen method, no part of it should feel wet when done
+9. Final product should be face mask consistency, paper-like and smooth
+10. Peel the biomaterial carfully off of your surface
 
 **Cutting the Biomaterial**
+1. Gather a sheet of the double-sided sticky paper
+2. Cut off a rectangle of the area you will need
+3. Peel off one side of the paper to reveal the sticker
+4. Place the biomaterial down and adhere it by pressing down on one side, then working your way to the other
+5. Stick the sticker paper with the attached biomaterial onto a corner of the sticky cutting mat, paper side down 
+   - make sure to align it to the corner of the grid on the mat and to remove the protective film
+6. Turn on the machine
+7. Connect your computer through bluetooth or a cable connection
+8. Open up Silhoutte Studio
+9. 
+
   
 **Instructions:**
 1. Use an immersion blender
