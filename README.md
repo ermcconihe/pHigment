@@ -88,6 +88,8 @@ Calcium Chloride Solution Ingredients:
 - 2.5 g Sunflower Oil 
 - 3 g Sodium Alginate
 
+<img src="/photos/ingredients.jpeg" width="450">
+
 **To Make the Calcium Chloride Solution**
 1. Heat 100g of water until hot, either on the stove or in a kettle
 2. Stir in 10f of calcium chloride until dissovled
@@ -103,7 +105,7 @@ Calcium Chloride Solution Ingredients:
    -  2.5 grams of sunflower oil into a boat, and pour it into the jar
    -  5 grams of glycerine into a boat, and pour it straight into jar
 
-![amount of red cabbage powder](/photos/cabbage-powder-amount.jpeg|width=100) 
+<img src="/photos/cabbage-powder-amount.jpeg" width="250"> <img src="/photos/titanium-dioxide-amount.jpeg" width="250">
 
 4. The 3 grams of sodium alginate should be measured into a boat and then added slowly to the jar while mixing with the immersion blender
    - add very small spoonfulls of the alginate at a time to prevent clumping
@@ -114,6 +116,9 @@ Calcium Chloride Solution Ingredients:
 1. Place the jar (without a lid) in the center of the chamber - try taping it down as it will want to move
 2. Place the lid of the chamber on and make sure the plug is tight in the back, otherwise it will not pressurize
 3. Press the "on" button and hit the AI button (on the left of the lid) to change the time unitl it says 15 minutes
+
+<img src="/photos/vacuum-chamber.jpeg" width="250">
+
 4. Make sure to watch the solution during this time to ensure that it doesn't bubble over
    - if it looks like it will, you can pause the machine with the go/pause symbols
 5. When complete, depressurize the chamber by releasing the plug very slowly
@@ -129,10 +134,13 @@ Calcium Chloride Solution Ingredients:
 4. Shake or swirl the Calcium Chloride solution to ensure it is fully combined
 5. From a foot away, douse the biomaterial thoroughly with a fine mist of the Calcium Chloride solution
 6. Let sit for 5-10 minutes as the material with shrink, exposing the edges which are a lighter and wetter color
-7. Respray again from 1 foot, focusing on the edges of the biomaterial
-8. Dry the biomaterial with your chosen method, no part of it should feel wet when done
-9. Final product should be face mask consistency, paper-like and smooth
-10. Peel the biomaterial carefully off of your surface
+
+<img src="/photos/wet-edges.jpeg" width="350">
+
+8. Respray again from 1 foot, focusing on the edges of the biomaterial
+9. Dry the biomaterial with your chosen method, no part of it should feel wet when done
+10. Final product should be face mask consistency, paper-like and smooth
+11. Peel the biomaterial carefully off of your surface
 
 **Cutting the Biomaterial**
 1. Gather a sheet of the double-sided sticky paper
@@ -146,18 +154,12 @@ Calcium Chloride Solution Ingredients:
 8. Open up Silhoutte Studio
 9. There is a pdf file attached above that explains the basics of navigating Silhoutte Studio
 
+<img src="/photos/loading-cameo.jpeg" width="350">
+
+<img src="/photos/before-cleanup.jpeg" width="350">
   
-**Instructions:**
-1. Use an immersion blender
-2. Add sodium alginate slowly (this prevents clumping)
-3. Use a vaccumm chamber to remove trapped airbubbles
-4. Pour on Acrylic Sheet
-5. Use acrylic strip or scraper to spread evenly
-6. Spray Calcium Chloride solution to cure
-7. Leave to dry for 6 days
-8. Following Cricut Tattoo Paper instructions, stick the colorimetric sheet on instead
-9. Cut using Silouhette Cameo
-10. Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment
+
+Stick sticker on nails, eyes, or anywhere on your arms or legs to read the pH of your environment
 
 ## Software Implementation
 
