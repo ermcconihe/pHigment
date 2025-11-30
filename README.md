@@ -23,11 +23,10 @@ We frame this project around the dual objective of designing on-body colorimetri
 
 - **Olivia Bates** - University of California, Davis, USA
 - **Alyssa Yee** - University of California, Davis, USA
+- - **Emily-Mae McConihe** - University of California, Davis, USA
 - **Phillip Gough** - Design lab, School of Architecture, Design and Planning, The University of Sydney, Sydney, NSW, Australia
 - **Anusha Wishana** - School of Computer Science, The University of Sydney, Sydney, NSW, Australia
 - **Katia Vega** - University of California, Davis, USA
-- **Emily-Mae McConihe** - University of California, Davis, USA
-
 
 ## Abstract
 This project explores the dual design challenge of creating on-body
@@ -190,7 +189,7 @@ components of a circular materials strategy.
 We welcome contributions to enhance the project. Please fork the repository and submit pull requests with your improvements. For major changes, please open an issue to discuss your proposal before making changes.
 
 ## Acknowledgments
-This material is based upon work supported by the National Science Foundation under Grant No 2146461, and UC Davis Academic
+This material is based upon work supported by the National Science Foundation under Grant No 2146461, UCD-USyd Ignition Grant, and UC Davis Academic
 Senate. 
 
 ## Cite our work
