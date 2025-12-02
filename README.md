@@ -93,6 +93,12 @@ components of a circular materials strategy.
 
 <img src="/photos/ingredients.jpeg" width="450">
 
+**PROCESS**
+Overall process:
+
+<img src="/photos/FabricationOverall.png" width="450">
+
+
 **To Make the Calcium Chloride Solution**
 1. Heat 100g of water until hot, either on the stove or in a kettle
 2. Stir in 10g of calcium chloride until dissovled
