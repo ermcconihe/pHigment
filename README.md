@@ -1,5 +1,5 @@
 # pHigment: Designing Biodegradable Single-Use Cosmetics for On-body Chemical Sensing
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-ZdPE575b6Q/0.jpg)](http://www.youtube.com/watch?v=-ZdPE575b6Q "Phigment Video")
 This repository contains the study code for the paper "pHigment: Designing Biodegradable Single-Use Cosmetics for On-body Chemical Sensing."
 
 ## Goal
