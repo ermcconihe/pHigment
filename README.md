@@ -94,9 +94,10 @@ components of a circular materials strategy.
 <img src="/photos/ingredients.jpeg" width="450">
 
 **PROCESS**
+
 Overall process:
 
-<img src="/photos/FabricationOverall.png" width="450">
+<img src="/photos/FabricationOverall.png" width="800">
 
 
 **To Make the Calcium Chloride Solution**
